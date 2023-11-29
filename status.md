@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Brian Dang
 
 #### Your section leader's name
 
-TODO
+Elmira Talebianaraki
 
 #### Project title
 
-TODO
+Block Breakout
 
 ***
 
@@ -18,9 +18,10 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Review videos to help me accomplish my project
 
 #### What have you not done for your project yet?
+Start on the project
 
 TODO
 
